@@ -9,6 +9,7 @@ Tools
 - Mysql workbench 
 - Mysql Server 
 - DBeaver
+- Selenium IDE
 
 
 Project Delivery
@@ -18,6 +19,7 @@ Project Delivery
 - Technical Document
 - UML diagrams
 - Sql Script
+- Selenium Test Script
 
 
 - Account Management Package
